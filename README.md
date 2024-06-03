@@ -1,4 +1,4 @@
-# go-template
+# bot
 
 ## To init
 
@@ -7,15 +7,15 @@ To use this repository, you should press "Use this template" button. It will clo
 This repository is not ready after cloning, and you should follow a few steps:
 
 1. Replace placeholder to match your new repo:
-- `github.com/petuhovskiy/go-template`
+- `github.com/rwlist/bot`
 - `github.com/<org>/<repo>`
 
-2. Replace placeholder with your name:
-- `Your Name`
+2. Replace placeholder with Arthur Petukhovsky:
+- `Arthur Petukhovsky`
 - `Appropriate Name`
 
 3. Replace the last placeholder with project name:
-- `go-template`
+- `bot`
 - `your-project`
 
 4. Remove this from README and write some code.
